@@ -88,11 +88,3 @@ Click on the "Save & Use Custom Node" button, to use the network; double-check t
 6. Copy the transaction hash and paste it into the "TX Status" section of the app, or click "TX Status" in the popup.
 
 7. The transaction is should now read Succesfull! C with the metadata (status, tx hash, block number, etc).
-
-# Conclusion
-
-I had a problem at the end sending a transaction, said the sender was invalid.
-
-![transaction](transaction.png)
-
-![invalid](invalid.png)
